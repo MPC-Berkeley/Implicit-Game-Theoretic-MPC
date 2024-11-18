@@ -1,3 +1,5 @@
-game_theoretic_NN/dataset/
+intersection_navigation/game_theoretic_NN/dataset/
+head2head_racing/hpipm/
+head2head_racing/blasfeo/
 *mp4
 __pycache__/*

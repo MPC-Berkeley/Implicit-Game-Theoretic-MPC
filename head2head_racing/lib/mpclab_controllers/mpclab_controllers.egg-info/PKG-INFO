@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mpclab_controllers
+Version: 0.1
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: casadi
+Requires-Dist: cvxpy
+Requires-Dist: matplotlib
+Requires-Dist: julia
