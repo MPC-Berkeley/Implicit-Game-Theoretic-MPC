@@ -1,3 +1,21 @@
+<div align="center">
+
+# IGT-MPC: Implicit Game-Theoretic MPC
+This repository contains the implementation of the paper <em>"Learning Multi-agent Motion Planning Strategies from Generalized Nash Equilibrium for Model Predictive Control"</em> submitted to 2025 Learning for Dynamics and Control Conference (L4DC) 
+
+[Hansung Kim (hansung@berkeley.edu)](https://github.com/hansungkim98122) &emsp; [Edward L. Zhu (edward.zhu@plus.ai)](https://shn66.github.io/) &emsp; [Chang Seok Lim (cshigh22@berkeley.edu)]&emsp; [Francesco Borrelli](https://me.berkeley.edu/people/francesco-borrelli/)   
+
+![](https://img.shields.io/badge/language-python-blue)
+<a href='https://arxiv.org/abs/2402.01116'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+
+# Demonstration Video:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-pRiOnPb9_c/0.jpg)](https://www.youtube.com/watch?v=-pRiOnPb9_c)
+</div>
+
+# Clone repository
+```
+git clone https://github.com/MPC-Berkeley/Implicit-Game-Theoretic-MPC.git
+```
 # Two vehicle Head-to-Head Racing
 ## Install dependent libraries
 ```
