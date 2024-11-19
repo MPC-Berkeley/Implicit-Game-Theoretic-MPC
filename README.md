@@ -36,7 +36,7 @@ The solver for MPC also requires hpipm_python package which you can download fro
 python evaluate.py
 ```
 # Two vehicle Un-signalized Intersection Navigation
-## Download the Game-Theoretic Interaction Dataset and unzip in :
+## Download the Game-Theoretic Interaction Dataset and unzip in 'intersection_navigation/game_theoretic_NN/dataset/':
 https://drive.google.com/drive/folders/1_8X7iMNEwCyPxwwrzvA_sD0aoYWLmUq4?usp=drive_link
 
 ```
