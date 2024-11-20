@@ -39,6 +39,7 @@ python evaluate.py
 ## Download the Game-Theoretic Interaction Dataset:
 https://drive.google.com/drive/folders/1_8X7iMNEwCyPxwwrzvA_sD0aoYWLmUq4?usp=drive_link
 and unzip in 'intersection_navigation/game_theoretic_NN/dataset/' as shown below
+```
 ├── intersection_navigation
   ├── game_theoretic_NN
     ├── configs
@@ -57,7 +58,7 @@ and unzip in 'intersection_navigation/game_theoretic_NN/dataset/' as shown below
     └── models
         ├── V_GT_sc1.pt
         ├── ...
-
+```  
 ```
 python evaluate.py --save_dir <save_directory> --eval_mode <mode: str> --sc <int>
 ```
