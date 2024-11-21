@@ -9,7 +9,7 @@ This repository contains the implementation of the paper <em>"Learning Multi-age
 <a href='https://arxiv.org/abs/2402.01116'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 # Demonstration Video:
-[![Link to video](http://img.youtube.com/vi/Id_qpvGETjQ/hqdefault.jpg)](https://youtu.be/Id_qpvGETjQ)
+[![Link to video](http://img.youtube.com/vi/9jlz95Nor2I/hqdefault.jpg)](https://youtu.be/9jlz95Nor2I)
 </div>
 
 # Clone repository
